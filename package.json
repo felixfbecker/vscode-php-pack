@@ -1,0 +1,31 @@
+{
+  "name": "php-pack",
+  "displayName": "PHP Extension Pack",
+  "description": "Everything you need for PHP development",
+  "version": "1.0.0",
+  "publisher": "felixfbecker",
+  "engines": {
+    "vscode": "^1.6.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "galleryBanner": {
+    "color": "#6682BA",
+    "theme": "dark"
+  },
+  "icon": "php.svg",
+  "homepage": "https://github.com/felixfbecker/vscode-php-pack/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/felixfbecker/vscode-php-pack/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felixfbecker/vscode-php-pack"
+  },
+  "extensionDependencies": [
+    "felixfbecker.php-debug",
+    "felixfbecker.php-intellisense"
+  ]
+}
