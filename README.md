@@ -1,6 +1,8 @@
 
 # PHP Extension Pack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/felixfbecker/vscode-php-pack.svg)](https://greenkeeper.io/)
+
 Includes the most important extensions to get you started with PHP development in Visual Studio Code.
 
 |              |         |
