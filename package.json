@@ -15,7 +15,7 @@
     "color": "#6682BA",
     "theme": "dark"
   },
-  "icon": "php.svg",
+  "icon": "logo.png",
   "homepage": "https://github.com/felixfbecker/vscode-php-pack/blob/master/README.md",
   "bugs": {
     "url": "https://github.com/felixfbecker/vscode-php-pack/issues"
