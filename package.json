@@ -25,7 +25,7 @@
     "type": "git",
     "url": "https://github.com/felixfbecker/vscode-php-pack"
   },
-  "extensionDependencies": [
+  "extensionPack": [
     "felixfbecker.php-debug",
     "felixfbecker.php-intellisense"
   ]
