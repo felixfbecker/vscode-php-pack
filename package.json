@@ -5,7 +5,7 @@
   "version": "1.0.1",
   "publisher": "felixfbecker",
   "engines": {
-    "vscode": "^1.6.0"
+    "vscode": "^1.26.0"
   },
   "categories": [
     "Other",
